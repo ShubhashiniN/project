@@ -1,0 +1,75 @@
+body{
+    background-image:url("https://cdn.britannica.com/67/104867-050-2FA63F27/Nandi-bull-Kumbakonam-Gangakondacholapuram-Temple-India-Tamil.jpg");
+    height: 100 vh;
+    background-size: cover;
+}
+h1{
+    color:blue;
+    font-size: xx-large;
+    font-family:Helvetica;
+    font-style: italic;
+    font-weight: 200px;
+    flex-direction: column;
+}
+.head1
+{
+    color:white;
+    font-size:xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 200px;
+    flex-direction: column;
+    text-align: center;
+}
+.para1{
+    color:rgb(59, 12, 162);
+    font-size: x-large;
+    font-family:Helvetica;
+    font-style: italic;
+    font-weight: 200px;
+    flex-direction: column;   
+    text-align: center;
+}
+ul{
+    float: right;
+    margin-top: -5px;
+
+}
+ul li{
+    display: inline;
+    padding:20px;
+}
+ul li a{
+    color:blue;
+    font-size: 20px;
+    font-weight:bolder;
+    text-decoration:none;
+}
+ul li a:hover
+{
+color:black;
+}
+.btn1
+{
+border-top-right-radius: 10px ;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+border-color: black;
+border-style:none;
+display:inline;
+color:wheat;
+background-color: blueviolet;
+margin-top: -5px;
+margin-left: -20 px;
+position: absolute;
+border-width:100 px;
+font-size: larger;
+}
+.container1
+{
+    text-align:center;
+    size:50 px;
+    
+
+}
